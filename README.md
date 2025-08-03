@@ -1,5 +1,7 @@
 # mcp-akshare 项目
 
+[![smithery badge](https://smithery.ai/badge/@Xxx00xxX33/mcp-akshare)](https://smithery.ai/server/@Xxx00xxX33/mcp-akshare)
+
 将akshare数据接口转换为MCP工具格式的Python项目
 
 ## 功能
